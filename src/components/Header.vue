@@ -175,10 +175,4 @@ export default {
   text-decoration: none;
   transition-duration: 0.25s;
 }
-
-.menu__item:hover {
-  color: #cccccc; /* Светло-серый цвет при наведении */
-  background-color: #333333; /* Темно-серый фон при наведении */
-  transform: translateY(-2px); /* Небольшой сдвиг вверх при наведении */
-}
 </style>

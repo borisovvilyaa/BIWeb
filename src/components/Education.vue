@@ -88,7 +88,7 @@ export default {
           gpa: "4.2",
         },
         {
-          degree: "Computer science",
+          degree: "End School :)",
           institution: "Kharkiv Lyceum 83, Ukraine",
           date: "Sep 2010 - Jun 2021",
           description:
