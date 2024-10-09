@@ -76,7 +76,7 @@ export default {
       { url: "https://t.me/illiaborusov", name: "Telegram" },
       { url: "https://github.com/borisovvilyaa", name: "GitHub" },
       {
-        url: "https://www.linkedin.com/in/illia-borusov-53a39a1ba/",
+        url: "https://www.linkedin.com/in/illia-borusov/",
         name: "LinkedIn",
       },
       { url: "https://www.youtube.com/@Floretona", name: "YouTube" },
