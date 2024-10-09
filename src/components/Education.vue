@@ -22,6 +22,7 @@
               <p class="education-description fw-light">
                 {{ item.description }}
               </p>
+              <hr />
             </div>
           </div>
         </div>
@@ -40,6 +41,7 @@
               <p class="education-description fw-light">
                 {{ course.description }}
               </p>
+              <hr />
             </div>
           </div>
         </div>

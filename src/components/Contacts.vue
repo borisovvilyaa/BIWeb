@@ -23,7 +23,7 @@
               <div class="contact-info-item">
                 <i class="bi bi-linkedin contact-icon"></i>
                 <a
-                  href="https://www.linkedin.com/in/borisovvilyaa/"
+                  href="https://www.linkedin.com/in/illia-borusov-53a39a1ba/"
                   target="_blank"
                   class="contact-link fw-light"
                   >LinkedIn Profile</a
